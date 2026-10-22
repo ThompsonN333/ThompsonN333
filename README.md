@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Nathan Thompson </h1>
 
 <p align="center">
-  Software Engineering student at <b>Ulster University</b> (graduating 2029)<br>
-  Seeking a <b>placement year</b> · Open to <b>summer internships</b>
+  Software Engineering student at <b>Ulster University</b> (2nd Year)<br>
 </p>
 
 <p align="center">
