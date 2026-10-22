@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nathan Thompson 👋</h1>
+<h1 align="center">Hi, I'm Nathan Thompson </h1>
 
 <p align="center">
   Software Engineering student at <b>Ulster University</b> (graduating 2029)<br>
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student at Ulster University, building my skills through coursework and hands-on projects. I'm looking for a **placement year** where I can contribute to a real team and keep learning, and I'm also open to **summer internships**.
+I'm a Software Engineering student at Ulster University, building my skills through coursework and hands-on projects. I'm currently looking for a **placement opportunity** where I can contribute to a real team and continue learning.
 
 ---
 
@@ -62,16 +62,9 @@ A database project built in Microsoft Access.
 
 ---
 
-## 🎓 Experience & Achievements
-
-- **Bright Network IEUK 2026**: took part in the Technology & Engineering Internship event
-- **Ulster University Computing Society**: member
-
----
-
 ## 📫 Get in Touch
 
-I'm actively looking for a placement year and open to summer internships. If you think I could be a good fit for your team, I'd love to hear from you.
+I'm actively looking for a placement year within Belfast or beyond. If you think I could be a good fit for your team, I'd love to hear from you.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathan-thompson-454714268)
 - ✉️ [nrm.wrk@outlook.com](mailto:nrm.wrk@outlook.com)
